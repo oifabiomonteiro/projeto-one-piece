@@ -1,1 +1,1 @@
-document.getElementById('idDaTagAudio').autoplay();
+document.getElementById('idDaTagAudio').play();
