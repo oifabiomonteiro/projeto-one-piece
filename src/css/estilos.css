@@ -2,6 +2,12 @@ body {
     background-color: #000000;
     overflow: hidden;
 }
+audio{
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    
+}
 
 main::after {
     content: "";
@@ -94,4 +100,3 @@ main .personagem .imagem {
     transform: scale(1.2);
     box-shadow: 0 0 10px #d9d9d9;
 }
-

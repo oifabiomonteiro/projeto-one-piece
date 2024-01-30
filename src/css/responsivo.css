@@ -58,9 +58,20 @@
     .botoes {
         padding: 20px;
         top: -20%;
+        
     }
 
     .botoes .botao img {
         max-width: 50px;
+        
     }
+ 
+}
+
+@media (max-width: 546px){
+    audio{
+        position: fixed;
+        margin: -70px;
+    }
+
 }

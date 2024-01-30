@@ -42,4 +42,3 @@ function desselecionarBotao() {
     const botaoSelecionado = document.querySelector(".botao.selecionado");
     botaoSelecionado.classList.remove("selecionado");
 }
-
